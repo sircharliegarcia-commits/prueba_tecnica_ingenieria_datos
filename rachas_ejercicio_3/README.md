@@ -1,2 +1,2 @@
-# Ejercicio 3 - Rachas 
-Identificaci¢n de rachas consecutivas por nivel de deuda. 
+#Ejercicio 3 - Rachas 
+Identificaciï¿½n de rachas consecutivas por nivel de deuda. 
