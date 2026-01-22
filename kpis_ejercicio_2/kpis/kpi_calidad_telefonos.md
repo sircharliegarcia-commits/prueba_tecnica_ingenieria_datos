@@ -1,4 +1,4 @@
-# KPIs de Calidad de Datos – Teléfonos
+#KPIs de Calidad de Datos Teléfonos
 
 ##Completeness
 Porcentaje de clientes con teléfono válido
