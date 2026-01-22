@@ -1,10 +1,10 @@
-# KPIs trazabilidad de los datos
+#KPIs trazabilidad de los datos
 
-## Origen
+##Origen
 Teléfonos por sistema de origen (CRM, Web, Call Center).
 
-## Ultima actualización
+##Ultima actualización
 Días promedio desde la última actualización del teléfono.
 
-## Versiones
+##Versiones
 Versiones del dataset y reglas aplicadas.
