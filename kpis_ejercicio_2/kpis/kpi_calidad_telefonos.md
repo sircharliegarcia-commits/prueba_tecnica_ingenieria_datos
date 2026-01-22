@@ -1,22 +1,22 @@
 # KPIs de Calidad de Datos – Teléfonos
 
-## 1. Completitud
-Porcentaje de clientes con teléfono válido.
+## 1. Completeness
+Porcentaje de clientes con teléfono válido
 
-**Fórmula:**
+**Cálculo:**
 (registros con teléfono no nulo / total de clientes) * 100
 
 ---
 
-## 2. Validez de Formato
-Porcentaje de teléfonos que cumplen las reglas de formato definidas.
+## 2. Formato
+Porcentaje de teléfonos que cumplen el formato definidas.
 
 ---
 
-## 3. Duplicidad
-Porcentaje de teléfonos repetidos en el dataset.
+## 3. Duplicados
+Porcentaje de teléfonos repetidos.
 
 ---
 
-## 4. Consistencia
-Coincidencia del teléfono entre sistemas de origen y dataset curado.
+## 4. Reconciliación
+Coincidencia del teléfono entre sistemas
